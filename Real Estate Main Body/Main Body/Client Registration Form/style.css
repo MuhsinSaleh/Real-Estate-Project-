@@ -1,0 +1,74 @@
+body{font-family: sans-serif,serif,tahoma;  width: 100%; height: 100%; background-color: darkcyan; margin: 0; padding: 0;}
+header{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0 auto; padding: 0; align-items: center; white-space: nowrap; border-bottom: 0.2em solid darkblue;}
+header img{ width: 10em; height: 5.2em; margin-right: 5em; border-right: 0.2em solid darkblue;}
+h1{ font-size: 2.5em; text-transform: uppercase; }
+p{text-align: center; font-size: 1em; font-weight: bold; }
+.required-info{width: 34%; height: 3em; background-color: lightblue; border-radius: 1em; white-space: nowrap; display: flex; align-items: center; justify-content: center; margin: 2em auto;}
+h1,h2,p,label,legend{color: darkblue;}
+h2{margin-left: 0.5em; font-size: 2em;}
+.reg-gal{ display: flex;}
+.reg-one{ margin-right: 14.7em;}
+label,legend{font-weight: bold;}
+input{ color: darkblue; font-weight: bold; background-color: azure; border-color: darkblue; margin-bottom: 2em;}
+label{margin: 2em 3em;}
+.radio,.checkbox{width: unset; background-color: azure;}
+fieldset{margin: 2em auto; border: none;}
+section{margin-top: 2em;}
+legend{font-size: 1.3em; margin: 1em}
+.registration-info{width: 41%; height: 21.5em; margin-left: 1em; margin-bottom: 2em; background-color: lightblue; border-radius: 1em; border: 0.2em solid darkblue;}
+.gallery-container{ width: 41%; height: 21.5em; background-color: lightblue; border-radius: 1em; margin-right: 1em; border: 0.2em solid darkblue; white-space: nowrap; overflow-y: hidden; overflow-x: auto; position: relative; scroll-behavior: smooth;}
+.gallery-container img{ width: 15em; height: 15em; object-fit: fill; border-radius: 1em; cursor: pointer; margin-bottom: 0;} 
+.gallery-container p{ display: inline-block; margin-top: 0; font-weight: lighter;}
+.p-one{ margin-left: 5.2em; margin-right: 10.7em; }
+.p-two{ margin-right: 11.3em; }
+.p-three{ margin-right: 10.9em; }
+.p-four{ margin-right: 12.2em;}
+.p-five{ margin-right: 9.5em;}
+.p-six{ margin-right: 8em;}
+.p-seven{ margin-right: 10.9em;}
+.p-eight{ margin-right: 11.7em;}
+.p-nine{ margin-right: 8.5em;}
+.p-ten{ margin-right: 7.2em;}
+.p-eleven{ margin-right: 9.3em;}
+.p-twelve{ margin-right: 8.5em;}
+.p-thirteen{ margin-right: 10.5em;}
+.p-fourteen{ margin-right: 11.3em;}
+.p-fifteen{ margin-right: 10.9em;}
+.p-sixteen{ margin-right: 10.5em;}
+.p-seventeen{ margin-right: 11em;}
+.p-eighteen{ margin-right: 12.5em;}
+.p-ninteen{ margin-right: 12.5em;}
+.p-tweenty{ margin-right: 11.5em;}
+.p-tweenty-one{ margin-right: 8.3em;}
+.p-tweenty-two{ margin-right: 9.5em;}
+.p-tweenty-three{ margin-right: 10.3em;}
+.registration-gallery{ display: flex; justify-content: space-between; margin-top: 2em;}
+.personal-info,.gallery{ margin-top: -1em;}
+hr{color: darkblue;}
+textarea{ margin-left: 9.5em; color: darkblue; font-weight: bold; background-color: azure; border-color: darkblue;}
+select{ margin-left: 3.8em; color: darkblue; font-weight: bold; height: 2em; border-color: darkblue; background-color: azure;}
+.marital{ margin-top: -1em;}
+.marital-status{width:41%; height: 20.8em; margin-left: 1em; background-color: lightblue; border-radius: 1em; border: 0.2em solid darkblue;}
+input[type="radio"]{ display: inline-block; margin-right: 1.9em; margin-top: 1em; margin-bottom: 1em;} 
+input[type="checkbox"]{ display: inline-block; margin-bottom: 2em; }
+.house-info{ width:41%; margin-left: 1em; height: 60em; background-color: lightblue; border-radius: 1em; margin-top: 2em; margin-bottom: 2em; border: 0.2em solid darkblue;}
+.house-info-one,.house-info-two{display: inline-block;}
+.house{ margin-top: -1em;}
+.bedroom-location{ display: flex; justify-content: space-between; margin-right: 3.6em;}
+.bed-div,.location-div{ display: inline-block;}
+.purpose{ display: flex; justify-content: space-between; margin-right: 3.6em;}
+.buysalerent-one,.buysalerent-two{ display: inline-block; margin-right: 3.9em;}
+.one,.two{ margin-top: 1em;}
+.house-info p{margin-top: 2em;}
+button{text-align: center; background-color: lightblue; color: darkblue; border-color: darkblue; border-radius: 2em; width: 10%; margin-bottom: 5em; margin-left: 14em; height: 3em; font-size: 1em; font-weight: bold;}
+footer{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0; padding: 0; align-items: center; white-space: nowrap;}
+footer h3,address{margin-left: 1em; color: darkblue; font-weight: lighter; font-size: 0.8em; }
+address{ margin-left: 5em; margin-right: 6.5em;}
+footer img{ width: 2em; height: 2em; border-radius: 0.5em;}
+.footer-img,.tell{ margin-right: 9em;}
+.footer-head p{ margin: 1em 6em; font-size: 1em;}
+.head-about p{ margin-right: 2em;}
+.footer-head{ display: flex; justify-content: space-between; background-color: lightblue; width: 100%; border-top: 0.2em solid darkblue; margin-top: 5em;}
+a{ color: darkblue; margin: 0 0.5em; }
+h3 a{ margin: 0 auto;}
+a:hover{ color: darkturquoise;}

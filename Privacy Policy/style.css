@@ -1,0 +1,12 @@
+body{font-family: sans-serif,serif,tahoma;  width: 100%; height: 100%; background-color: darkcyan; margin: 0; padding: 0;}
+header{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0 auto; padding: 0; align-items: center; white-space: nowrap; border-bottom: 0.2em solid darkblue; color: darkblue;}
+header img{ width: 10em; height: 5.2em; margin-right: 20.2em; border-right: 0.2em solid darkblue;}
+.privacy-policy{ width: 70%; height: 27em; background-color: lightblue; color: darkblue; border-radius: 1em; display: block; justify-content: center; margin: 0 auto; margin-top: 2em; border: 0.2em solid darkblue;}
+ol li{ margin: 1em auto; text-align: justify; margin-right: 1.5em;}
+.privacy{ margin-top: 1em; text-align: center;}
+.date{ text-align: center; font-weight: bold;}
+.homepage-gallery{ display: flex;  align-items: center;}
+.homepage{ width: 11%; height: 2em; background-color: lightblue; font-size: 0.9em; margin-left: 14em; margin-right: 47.3em; border-radius: 1em; border: 0.2em solid darkblue; margin-top: 1em; font-weight: bold; text-align: center; align-items: center; justify-content: center; display: flex;}
+.gallery{width: 9%; height: 2em; background-color: lightblue; font-size: 0.9em; border-radius: 1em; border: 0.2em solid darkblue; margin-top: 1em; font-weight: bold; text-align: center; align-items: center; justify-content: center; display: flex;}
+a{ color: darkblue; margin-top: em; text-decoration: none;}
+a:hover{ color: darkturquoise;}
