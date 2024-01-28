@@ -1,0 +1,18 @@
+body{font-family: sans-serif,serif,tahoma;  width: 100%; height: 100%; background-color: darkcyan; margin: 0; padding: 0;}
+header{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0 auto; padding: 0; align-items: center; white-space: nowrap; border-bottom: 0.2em solid darkblue;}
+header img{ width: 10em; height: 5.2em; margin-right: 5em; border-right: 0.2em solid darkblue;}
+h1{ font-size: 2.5em; text-transform: uppercase; color: darkblue; margin: 0 5em;}
+p{text-align: center; font-size: 2em; font-weight: bold; color: darkblue;}
+.welcome{width: 30%; height: 3em; background-color: lightblue; border-radius: 1em; white-space: nowrap; display: flex; align-items: center; justify-content: center; margin: 2em auto;}
+.gallery{ width: 92%; height: 100%; background-color: lightblue; border-radius: 1em; border: 0.2em solid darkblue; display: flex; flex-wrap: wrap; flex-direction: row; justify-content: center; margin: 0 auto; padding: 0 auto; column-gap: 0.5em;}
+.gallery img{ width: 25em; height: 24em; border-radius: 1em; margin: 1em 0;}
+footer{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0; padding: 0; align-items: center; white-space: nowrap;}
+footer h3,address{margin-left: 1em; color: darkblue; font-weight: lighter; font-size: 0.9em; }
+address{ margin-left: 7em; margin-right: 14.4em;}
+footer img{ width: 2em; height: 2em; border-radius: 1em;}
+.footer-img{ margin-right: 14.7em;}
+.footer-head p{ margin: 1em 5em; font-size: 1em;}
+.footer-head{ display: flex; justify-content: space-between; background-color: lightblue; width: 100%; border-top: 0.2em solid darkblue; margin-top: 5em;}
+a{ color: darkblue; margin: 0 0.5em; }
+h3 a{ margin: 0 auto;}
+a:hover{ color: darkturquoise;}

@@ -1,0 +1,7 @@
+body{font-family: sans-serif,serif,tahoma;  width: 100%; height: 100%; background-color: darkcyan; margin: 0; padding: 0;}
+header{width: 100%; height: 5em; display: flex; background-color: lightblue; margin: 0 auto; padding: 0; align-items: center; white-space: nowrap; border-bottom: 0.2em solid darkblue; color: darkblue;}
+header img{ width: 10em; height: 5.2em; margin-right: 16.3em; border-right: 0.2em solid darkblue;}
+.terms-and-conditions{ width: 70%; height: 29em; background-color: lightblue; color: darkblue; border-radius: 1em; display: block; justify-content: center; margin: 0 auto; margin-top: 2em; border: 0.2em solid darkblue;}
+ol li{ margin: 1em auto; text-align: justify; margin-right: 1.5em;}
+.term{ margin-top: 1em; text-align: center;}
+.date{ text-align: center; font-weight: bold;}
